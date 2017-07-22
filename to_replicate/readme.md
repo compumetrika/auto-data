@@ -1,0 +1,1 @@
+It always helps to have some targets to replicate, or ideas of things to do yourself. Small examples can motivate a lot of learnign for bigger projects. 
